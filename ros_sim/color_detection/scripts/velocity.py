@@ -4,8 +4,8 @@ import cv2
 
 # Variables 
 ########################################################################
-max_area_detection = # <COMPLETE>
-min_area_detection = # <COMPLETE>
+##max_area_detection = # <COMPLETE>
+#min_area_detection = # <COMPLETE>
 
 
 
@@ -46,7 +46,7 @@ def get_velocity(vel, area, x, mid_width):
 # mid_width : middle width of image 
 def get_angular_velocity(x, mid_width):
     vel_z = 0.0
-    offset = # <COMPLETE>
+    #offset = # <COMPLETE>
     
     # If the centroid of the color is on the right part of the image + offset
     # <COMPLETE>

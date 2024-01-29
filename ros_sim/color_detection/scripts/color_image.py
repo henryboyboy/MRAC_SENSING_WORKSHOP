@@ -26,11 +26,11 @@ def get_color_range(color):
     #    lower_range = # <COMPLETE>
     #    upper_range = # <COMPLETE>
 
-    #elif(color == 'blue'):
-    #    lower_range = # <COMPLETE>
-    #    upper_range = # <COMPLETE>
+    if(color == 'blue'):
+        lower_range = (40,0,0) #(H,S.V))
+        upper_range = (80,255,255) #<COMPLETE>
 
-    #else: # Yellow 
+    #else: # Yellow0
     #    lower_range = # <COMPLETE>
     #    upper_range = # <COMPLETE>
     
